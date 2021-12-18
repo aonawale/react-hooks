@@ -1,11 +1,19 @@
 {
-  "name": "react-hooks",
+  "name": "@aonawale/react-hooks",
   "version": "1.1.0",
   "description": "Unclutter your react apps",
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
   "module": "build/module/index.js",
-  "repository": "https://github.com/aonawale/react-hooks",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aonawale/react-hooks.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aonawale/react-hooks/issues"
+  },
+  "homepage": "https://aonawale.github.io/react-hooks/",
+  "author": "Ahmed Onawale",
   "license": "MIT",
   "keywords": [],
   "scripts": {
